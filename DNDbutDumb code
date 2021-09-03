@@ -1,0 +1,9 @@
+{
+	"origin": ["A #class#, a #class#, and a #class# #action# into a #place# and were #greeted# by a #adjective# #opponent#"],
+	"class" : ["barbarion", "bard", "cleric", "druid", "fighter", "monk","paladin","ranger","rogue","sorcerer","warlock", "wizard","blood hunter"],
+	"action" : ["walked", "saddled", "charged","paraded","danced","do-si-doed","saunter","trapezed","flew","teleported","hopped","frolicked","hurtled","ran","dashed","galloped","scuttled","slid"],
+	"place": ["bar","school","dungeon","gym","castle","restaurant","gas station","fruit stand","hardware store","grocery store","spa","airport","bookstore","bakery","coffee shop","bank","prison" ],
+	"greeted": ["greeted","attacked","berated","entranced","flirted with","announced","ambushed","bombarded"],
+	"adjective": ["six eyed","giant","glamorous","ostentatious","warty","creepy","clever","colorful","cute","charming","filthy","graceful","hungry","inquisitive","handsome","grumpy","joyous","magnificent","powerful","obnoxious","prickly","scary","putrid","shiny","smiling","shy","spotted","vivacious","zany","entrancing","gold","silver","bronze","ancient","baby","old","young","blue","green","red","purple","yellow","orange","glittering","pearlescent","scarlet","violet","cerulean","flowery","pink","fuschia","indigo","dark blue","gentle","teal","aquamarine","lilac","burgandy","marroon","mint green","sky blue","ash grey","polka dotted"],
+	"opponent": ["dragon","spider","demigorgon","frost giant","hill giant","tiamat","yeti","worm","troll","#class#","kraken","tarrasque"]
+}
